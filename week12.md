@@ -1,5 +1,7 @@
 https://doi.org/10.1016/j.jssr.2018.11.001
-Students' use of data visualizations in historical reasoning: A think-aloud investigation with elementary, middle, and high school student
+
+####  Students' use of data visualizations in historical reasoning: A think-aloud investigation with elementary, middle, and high school student
+
 This paper examines how students employ data visualizations when grappling with historical inquiries, the target was fifth-grade, eighth-grade, and high school students. The study scrutinizes their interactions with data visualizations extracted from conventional school textbooks. Among its significant findings are the potential advantages of data visualizations in fortifying historical reasoning, the hurdles students confront in effectively employing them, and the pivotal role of tailored data literacy instruction.
 The study underscores the importance of data literacy within the domain of social studies education, emphasizing the necessity for students to meticulously analyze data visualizations. Research suggests a tendency among students to disregard data visualizations embedded within informational texts, thereby missing valuable opportunities to refine essential skills. However, active engagement with data visualizations notably enhances students' proficiency in historical reasoning, particularly in terms of contextualization and grasping causal factors. Additionally, the study identifies common challenges students encounter when deciphering data visualizations.
 The other part of the document discusses other things like emphasis on historical thinking concepts, examining topography semantics  and the integration of Data literacy where it emphasis the necessity of cultivating data literacy skills among students
